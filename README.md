@@ -1,11 +1,11 @@
 # Fox-News-Twitter-Sentiment-Analysis
 
-# Tweets Word Count Disribution
+# Tweets Word Count Distribution
 
 ![fox_word_count](https://user-images.githubusercontent.com/59103315/101737578-13b27c80-3a93-11eb-8572-3f6bfe58d034.png)
 
 
-# Sentiment Disribution of the Tweets
+# Sentiment Distribution of the Tweets
 
 ![fox_sentiment_distribution](https://user-images.githubusercontent.com/59103315/101737577-13b27c80-3a93-11eb-8308-0572b012b1e2.png)
 
